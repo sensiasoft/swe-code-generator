@@ -42,5 +42,6 @@
 	<classpathentry kind="lib" path="xmlbeans/compile-lib/xercesImpl-2.11.0.jar"/>
 	<classpathentry kind="lib" path="xmlbeans/compile-lib/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="lib" path="lib/ant.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-8-openjdk-amd64/lib/tools.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
