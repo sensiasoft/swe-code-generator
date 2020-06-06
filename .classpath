@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="sensia/src"/>
+	<classpathentry kind="src" path="xmlbeans/src/xmlinputstream"/>
+	<classpathentry kind="src" path="xmlbeans/src/shell"/>
+	<classpathentry kind="src" path="xmlbeans/resources/typeimpl"/>
+	<classpathentry kind="src" path="xmlbeans/src/typeholder"/>
+	<classpathentry kind="src" path="xmlbeans/src/xsdschema"/>
+	<classpathentry kind="src" path="xmlbeans/src/xmlschema"/>
+	<classpathentry kind="src" path="xmlbeans/src/saaj_api"/>
+	<classpathentry excluding="org/apache/xmlbeans/impl/common/NameUtil.java" kind="src" path="xmlbeans/src/common"/>
+	<classpathentry kind="src" path="xmlbeans/src/xpath_xquery"/>
+	<classpathentry kind="src" path="xmlbeans/resources/xpath_xquery"/>
+	<classpathentry kind="src" path="xmlbeans/src/xmlpublic"/>
+	<classpathentry kind="src" path="xmlbeans/resources/xmlpublic"/>
+	<classpathentry excluding="org/apache/xmlbeans/impl/jam/internal/javadoc/JavadocTigerDelegateImpl_150.java" kind="src" path="xmlbeans/src/jamsupport"/>
+	<classpathentry kind="src" path="xmlbeans/src/xmlcomp"/>
+	<classpathentry kind="src" path="xmlbeans/src/toolschema"/>
+	<classpathentry kind="src" path="xmlbeans/src/tools"/>
+	<classpathentry excluding="org/apache/xmlbeans/impl/schema/SchemaTypeSystemCompiler.java|org/apache/xmlbeans/impl/schema/StscJavaizer.java|org/apache/xmlbeans/impl/schema/BuiltinSchemaTypeSystem.java" kind="src" path="xmlbeans/src/typeimpl"/>
+	<classpathentry kind="src" path="xmlbeans/src/typestore"/>
+	<classpathentry kind="src" path="xmlbeans/src/marshal"/>
+	<classpathentry kind="src" path="xmlbeans/src/xmlconfig"/>
+	<classpathentry kind="src" path="xmlbeans/build/generated-sources"/>
+	<classpathentry kind="src" path="xmlbeans/src/repackage"/>
+	<classpathentry kind="src" path="xmlbeans/src/zipcompare"/>
+	<classpathentry kind="src" path="xmlbeans/src/store"/>
+	<classpathentry kind="src" path="xmlbeans/src/configschema"/>
+	<classpathentry kind="lib" path="lib/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/stax2-api-3.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/woodstox-core-asl-4.2.0.jar"/>
+	<classpathentry kind="lib" path="xmlbeans/lib/jam-0.1.0-src.jar"/>
+	<classpathentry kind="lib" path="xmlbeans/lib/oldxbean.jar"/>
+	<classpathentry kind="lib" path="xmlbeans/compile-lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="xmlbeans/compile-lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="xmlbeans/compile-lib/resolver.jar"/>
+	<classpathentry kind="lib" path="xmlbeans/compile-lib/saxon9-dom.jar"/>
+	<classpathentry kind="lib" path="xmlbeans/compile-lib/saxon9.jar"/>
+	<classpathentry kind="lib" path="xmlbeans/compile-lib/saxonb9-0-0-4j.zip"/>
+	<classpathentry kind="lib" path="xmlbeans/compile-lib/xcresolver.zip"/>
+	<classpathentry kind="lib" path="xmlbeans/compile-lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="xmlbeans/compile-lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="lib/ant.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

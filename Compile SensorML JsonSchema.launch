@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/xmlbeans-project/xmlbeans/src/xmlcomp/org/apache/xmlbeans/impl/tool/SchemaCompiler.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.apache.xmlbeans.impl.tool.SchemaCompiler"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-dl -src generated/swe/src -javasource 1.5 -schemaCodePrinter com.sensia.xmlbeans.SchemaTypeCodePrinter /home/alex/Projects/OGC/SWE/SVN/xsd/sensorML/2.0/sensorML.xsd"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="swe-code-generator"/>
+</launchConfiguration>

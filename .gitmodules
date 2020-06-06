@@ -1,0 +1,3 @@
+[submodule "xmlbeans"]
+	path = xmlbeans
+	url = https://github.com/apache/xmlbeans.git
